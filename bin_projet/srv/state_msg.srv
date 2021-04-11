@@ -1,0 +1,4 @@
+std_msgs/Int64 id_poubelle
+std_msgs/Int64 state
+---
+std_msgs/Bool res

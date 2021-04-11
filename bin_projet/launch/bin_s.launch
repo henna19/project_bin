@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="bin_projet" name="bin_state" type="bin_server.py"/>
+</launch>
